@@ -10,3 +10,8 @@ KU Bootcamp Module 9 Challenge - SQL Challenge
 ### Execution Statistics of Loading the Tables
 -  Import Statistics stored under sql-challenge/EmployeeSQL/Execution_Statistics_For_Importing_Data_From_CSV_to_Tables.png
 -  Screen Print of Number of rows that exist in the table are stored under sql-challenge/EmployeeSQL/Number_of_Rows_After_Data_Inserted.png
+
+##  Data Analysis Queries and the Results:
+- 1.  List the employee number, last name, fi rst name, sex, and salary of each employee.
+-- Query in Employee_Salary_Query.sql
+-- Results in Employee_Salary_Query_Results.csv
