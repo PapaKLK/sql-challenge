@@ -19,3 +19,8 @@ KU Bootcamp Module 9 Challenge - SQL Challenge
 2.  List the first name, last name, and hire date for the employees who were hired in 1986.
 - Query in EmployeeSQL/Employee_1986_HireDate_Query.sql
 - Results in EmployeeSQL/Employee_1986_HireDate_Query_Results.csv
+
+3. List the manager of each department along with their department number, department name, employee number,last name, and first name
+- Query in EmployeeSQL/Department_Manager_Query.sql
+- Results in EmployeeSQL/Department_Manager_Query_Results.csv
+
