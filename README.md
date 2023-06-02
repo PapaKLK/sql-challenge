@@ -14,7 +14,8 @@ KU Bootcamp Module 9 Challenge - SQL Challenge
 ##  Data Analysis Queries and the Results:
 
 ### Note 
-    -  All 8 Data Analysis Queries are stored in file EmployeeSQL/Data_Analysis_All_8_Queries.sql.  In addition, the queries are also stored in individual files as listed below along with the results of each query in a corresponding csv file.
+    -  All 8 Data Analysis Queries are stored in file EmployeeSQL/Data_Analysis_All_8_Queries.sql.  
+       In addition, the queries are also stored in individual files as listed below along with the results of each query in a corresponding csv file.
     
 1.  List the employee number, last name, fi rst name, sex, and salary of each employee.
 - Query in EmployeeSQL/Employee_Salary_Query.sql
