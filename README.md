@@ -35,3 +35,7 @@ KU Bootcamp Module 9 Challenge - SQL Challenge
 6. List each employee in the Sales department, including their employee number, last name, and first name
 -  Query in EmployeeSQL/Employees_In_Sales_Query.sql
 -  Results in EmployeeSQL/Employees_In_Sales_Query_Results.csv
+
+7. List each employee in the Sales and Development departments, including their employee number, last name, first name, and department name
+-  Query in EmployeeSQL/Employees_In_Sales_Development_Query.sql
+-  Results in EmployeeSQL/Employees_In_Sales_Development_Query_Results.csv
