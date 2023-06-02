@@ -12,6 +12,10 @@ KU Bootcamp Module 9 Challenge - SQL Challenge
 -  Screen Print of Number of rows that exist in the table are stored under sql-challenge/EmployeeSQL/Number_of_Rows_After_Data_Inserted.png
 
 ##  Data Analysis Queries and the Results:
+
+### Note 
+    -  All 8 Data Analysis Queries are stored in file EmployeeSQL/Data_Analysis_All_8_Queries.sql.  In addition, the queries are also stored in individual files as listed below along with the results of each query in a corresponding csv file.
+    
 1.  List the employee number, last name, fi rst name, sex, and salary of each employee.
 - Query in EmployeeSQL/Employee_Salary_Query.sql
 - Results in EmployeeSQL/Employee_Salary_Query_Results.csv
