@@ -39,3 +39,7 @@ KU Bootcamp Module 9 Challenge - SQL Challenge
 7. List each employee in the Sales and Development departments, including their employee number, last name, first name, and department name
 -  Query in EmployeeSQL/Employees_In_Sales_Development_Query.sql
 -  Results in EmployeeSQL/Employees_In_Sales_Development_Query_Results.csv
+
+8. List the frequency counts, in descending order, of all the employee last names (that is, how many employees share each last name)
+-  Query in EmployeeSQL/Last_Name_Counts_Query.sql
+-  Results in EmployeeSQL/Last_Name_Counts_Query_Results.csv
