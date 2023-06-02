@@ -31,4 +31,7 @@ KU Bootcamp Module 9 Challenge - SQL Challenge
 5. List first name, last name, and sex of each employee whose first name is Hercules and whose last name beginswith the letter B
 - Query in EmployeeSQL/Employees_Name_Hercules_B_Query.sql
 - Results in EmployeeSQL/Employees_Name_Hercules_B_Query_Results.csv
-- 
+
+6. List each employee in the Sales department, including their employee number, last name, and first name
+-  Query in EmployeeSQL/Employees_In_Sales_Query.sql
+-  Results in EmployeeSQL/Employees_In_Sales_Query_Results.csv
