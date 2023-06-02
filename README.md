@@ -24,3 +24,7 @@ KU Bootcamp Module 9 Challenge - SQL Challenge
 - Query in EmployeeSQL/Department_Manager_Query.sql
 - Results in EmployeeSQL/Department_Manager_Query_Results.csv
 
+4. List the department number for each employee along with that employee’s employee number, last name, first name, and department name
+- Query in EmployeeSQL/Employee_Department_Query.sql
+- Results in EmployeeSQL/Employee_Department_Query_Results.csv
+
