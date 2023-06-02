@@ -3,6 +3,7 @@ KU Bootcamp Module 9 Challenge - SQL Challenge
 
 ### Entity Relationship Diagram
 -  Stored under sql-challenge/EmployeeSQL/Department Employees ERD.png
+-  Column names were modified somewhat to promote consistency and clarity across the attributes in the different entities.
 
 ### SQL to create the tables
 -  Stored under sql-challenge/EmployeeSQL/Department_Employee_Create_Table_DDL.sql
